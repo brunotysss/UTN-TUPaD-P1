@@ -1,20 +1,26 @@
-# 💻 Programación 1  
-**Tecnicatura Universitaria en Programación**  
-📍 *Universidad Tecnológica Nacional*  
+# UTN - Trabajo Práctico Unidad 2 💻
 
-## ✨ Estudiante  
-- **Nombre:** Bruselario, Sebastián *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-7 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+Este repositorio contiene la entrega del Trabajo Práctico correspondiente a la **Unidad 2** de la materia **Programación 1** de la UTN.
 
-## 📂 Descripción del Repositorio  
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+## 📚 Contenido
 
-📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
-- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
-- Se busca mantener un código limpio, ordenado y bien documentado.  
+- PDF con la resolución del TP (dentro de la carpeta correspondiente)
+- Organización de carpetas según la estructura del repositorio original
+- Archivos `.py` y documentación eliminados en esta entrega según consigna
 
-> ⚠️ **Nota:** Este README y los nombres de los archivos de los trabajos prácticos deben ser actualizados con tus datos personales.
-> 
-> ¡Recuerda mantener actualizado tu repositorio!
+## 👨‍🎓 Datos del estudiante
 
+- **Nombre:** Bruno [Tu Apellido]
+- **Legajo:** [Tu número de legajo]
+- **Carrera:** Tecnicatura Universitaria en Programación
+- **Materia:** Programación 1
+- **Profesor:** [Nombre del docente si lo piden]
+
+## 🔗 Enlace del repositorio original
+
+Fork realizado a partir del siguiente repositorio proporcionado por la cátedra:  
+[sbruselario/UTN-TUPaD-P1](https://github.com/sbruselario/UTN-TUPaD-P1)
+
+## 📌 Nota
+
+Se mantuvo la estructura de carpetas para futuras entregas, respetando la consigna y buenas prácticas en Git.
