@@ -1,4 +1,4 @@
-# UTN - Trabajo Práctico Unidad 2 💻
+# UTN  - Trabajos Prácticos💻
 
 Este repositorio contiene la entrega del Trabajo Práctico correspondiente a la **Unidad 2** de la materia **Programación 1** de la UTN.
 
@@ -10,11 +10,9 @@ Este repositorio contiene la entrega del Trabajo Práctico correspondiente a la 
 
 ## 👨‍🎓 Datos del estudiante
 
-- **Nombre:** Bruno [Tu Apellido]
-- **Legajo:** [Tu número de legajo]
+- **Nombre:** Carlos Bruno Fernández Paolini
 - **Carrera:** Tecnicatura Universitaria en Programación
 - **Materia:** Programación 1
-- **Profesor:** [Nombre del docente si lo piden]
 
 ## 🔗 Enlace del repositorio original
 
