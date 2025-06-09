@@ -1,6 +1,6 @@
-#Programación 1Add commentMore actions
-#TECNICATURA UNIVERSITARIA EN PROGRAMACIÓN
 
+# TP 3 - Estructuras Condicionales - UTN a Distancia
+# Estudiante: Carlos Bruno Fernández Paolini
 
 # Actividad 1 - Crear una lista con los números del 1 al 100 que sean múltiplos de 4
 #--------------------------------------------------------------------------------------------------------------------------------
