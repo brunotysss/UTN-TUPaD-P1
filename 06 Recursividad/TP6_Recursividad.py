@@ -1,6 +1,7 @@
 
-# Práctico 11 - Recursividad
-# Autor: ChatGPT - TP Resuelto con comentarios
+
+# TP 6 -Recursividad- UTN a Distancia
+# Estudiante: Carlos Bruno Fernández Paolini
 
 # 1) Calcular factorial de un número de forma recursiva
 def factorial(n):
